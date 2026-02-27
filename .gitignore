@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Pastas
+/dist
+/build
+
+# Arquivos
+
+RLC Analyzer Pro.spec
+RLC_Analyzer_Pro_Setup.exe
+compiler_setup.iss
+before_install.txt
+OpenChoiceTekVisa_Deployment_Package_066093813.exe
